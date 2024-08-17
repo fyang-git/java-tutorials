@@ -1,0 +1,12 @@
+﻿enrolmentType,firstName,lastName,000000
+C,Alan,Turing,100001,CS101,0,0,0,0
+C,Grace,Hopper,100002,CS102,0,0,0,0
+C,Margaret,Hamilton,100003,CS103,0,0,0,0
+C,Tim,Berners-Lee,100004,WEB101,0,0,0,0
+C,Linus,Torvalds,100005,OS102,0,0,0,0
+R,Ada,Lovelace,200001,0,0
+R,Donald,Knuth,200002,0,0
+R,Claude,Shannon,200003,0,0
+R,Edsger,Dijkstra,200004,0,0
+R,Richard,Hamming,200005,0,0
+
